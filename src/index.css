@@ -1,13 +1,45 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.board-button {
+  background-color: rgb(71, 55, 62);
+  background-image: url(france.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 800px 800px;
+  border: none;
+  width: 800px;
+  height: 800px;
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+  margin-top: 100px;
+  margin-left: 100px;
+  display: inline-block;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+div {
+  display: inline-block;
+}
+
+.pin {
+  width: 0px;
+  height: 0px;
+  color: red;
+}
+
+.france-map{
+  display: inline-block;
+}
+
+#map {
+  max-width: 100%;
+  max-height: 100%;
+}
+#map path {
+  transition: fill 0.2s, stroke 0.3s;
+}
+#map path:hover {
+  fill: red;
+  stroke: red;
+}
+#map path:active {
+  fill: rgb(255, 255, 255);
+  stroke: rgb(255, 255, 255);
 }

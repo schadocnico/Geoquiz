@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### npx eslint src/index.js
+
+https://eslint.org/docs/user-guide/getting-started
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
@@ -26,6 +30,10 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run deploy`
+
+Deploy project in github pages
 
 ### `npm run eject`
 
