@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Geoquiz/static/css/main.c57b4373.chunk.css",
+    "main.js": "/Geoquiz/static/js/main.d20ae63b.chunk.js",
+    "main.js.map": "/Geoquiz/static/js/main.d20ae63b.chunk.js.map",
+    "runtime-main.js": "/Geoquiz/static/js/runtime-main.17895595.js",
+    "runtime-main.js.map": "/Geoquiz/static/js/runtime-main.17895595.js.map",
+    "static/js/2.9c469ee4.chunk.js": "/Geoquiz/static/js/2.9c469ee4.chunk.js",
+    "static/js/2.9c469ee4.chunk.js.map": "/Geoquiz/static/js/2.9c469ee4.chunk.js.map",
+    "index.html": "/Geoquiz/index.html",
+    "precache-manifest.4fba0e11dac10f13dcc8ed89e63385e7.js": "/Geoquiz/precache-manifest.4fba0e11dac10f13dcc8ed89e63385e7.js",
+    "service-worker.js": "/Geoquiz/service-worker.js",
+    "static/css/main.c57b4373.chunk.css.map": "/Geoquiz/static/css/main.c57b4373.chunk.css.map",
+    "static/js/2.9c469ee4.chunk.js.LICENSE.txt": "/Geoquiz/static/js/2.9c469ee4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Geoquiz/static/media/france.bf0ad3a2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17895595.js",
+    "static/js/2.9c469ee4.chunk.js",
+    "static/css/main.c57b4373.chunk.css",
+    "static/js/main.d20ae63b.chunk.js"
+  ]
+}
